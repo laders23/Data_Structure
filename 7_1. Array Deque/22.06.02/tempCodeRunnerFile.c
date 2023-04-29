@@ -1,0 +1,1 @@
+if (D->array[i % D->capacity] != -1)
